@@ -71,10 +71,3 @@
 
 
   📍 Cotia, São Paulo · github.com/vchavesz
-</div>☁_AWS_Cloud_Practitioner-FF9900?style=flat-square&labelColor=1a1a1a&color=1a1a1a&logoColor=FF9900)
-![SENAI](https://img.shields.io/badge/✓_SENAI_Certified-2ea44f?style=flat-square)
-![AI](https://img.shields.io/badge/⚡_AI_Enthusiast-0969da?style=flat-square)
-
-</div>
-
----
