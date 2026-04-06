@@ -58,7 +58,7 @@
 |--------|-------------|-------------|
 | 🟡 Em andamento | AWS Cloud Practitioner — CLF-C02 | SENAI Cotia · 2026 |
 | ✅ Concluído | Desenvolvimento Front-end | SENAI · 2025 |
-| ✅ Concluído | IA Generativa Aplicada à Programação | SENAI · 2025 |
+| ✅ Concluído | IA Generativa Aplicada à Programação | SENAI · 2026 |
 | ✅ Concluído | Desenvolvimento em C# | SENAI · 2025 |
 
 ---
