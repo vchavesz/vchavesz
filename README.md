@@ -4,12 +4,6 @@
 
 **Cloud & Cybersecurity · Brazil 🇧🇷**
 
-![AWS](https://img.shields.io/badge/<div align="center">
-
-# Vinicius Chaves · `vchavesz`
-
-**Cloud & Cybersecurity · Brazil 🇧🇷**
-
 ![AWS](https://img.shields.io/badge/☁_AWS_Cloud_Practitioner-a35e00?style=flat-square&labelColor=fff8ec)
 ![Cybersecurity](https://img.shields.io/badge/🔐_Cybersecurity-116329?style=flat-square&labelColor=eafbf0)
 ![AI](https://img.shields.io/badge/⚡_AI_Enthusiast-0550ae?style=flat-square&labelColor=f0f6ff)
@@ -69,5 +63,20 @@
 >
 > Primeiros projetos de cloud security e automação com IA em desenvolvimento. Watch this space.
 
+---
+
+## `> stats`
+
+<div align="center">
+
+![vchavesz's GitHub stats](https://github-readme-stats.vercel.app/api?username=vchavesz&show_icons=true&theme=default&hide_border=true&title_color=0969da&icon_color=0969da)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=vchavesz&color=0969da&style=flat-square&label=Visitas+ao+perfil" />
 
   📍 Cotia, São Paulo · github.com/vchavesz
+</div>
