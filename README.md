@@ -21,10 +21,10 @@
 
 ## `> current focus`
 
-> 📌 Constantly seeking knowledge and sharpening my skills — studying, building, and iterating to grow as a developer.
+> 📌 Constantly seeking knowledge and sharpening my skills — studying, building, to grow as a developer.
 
-![AWS](https://img.shields.io/badge/AWS_CLF--C02-a35e00?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=fff8ec&color=fff8ec)
-![AI](https://img.shields.io/badge/AI-0550ae?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=f0f6ff&color=f0f6ff)
+![AWS](https://img.shields.io/badge/AWS_CLF--C02-ffffff?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=57606a&color=57606a)
+![AI](https://img.shields.io/badge/AI-ffffff?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=57606a&color=57606a)
 
 ---
 
