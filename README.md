@@ -19,8 +19,6 @@
 
 ---
 
-## `> stack`
-
 ## `> current focus`
 
 > 📌 Constantly seeking knowledge and sharpening my skills — studying, building, to grow as a developer.
