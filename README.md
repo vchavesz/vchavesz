@@ -2,10 +2,9 @@
 
 # Vinicius Chaves · `vchavesz`
 
-**Cloud & Cybersecurity · Brazil 🇧🇷**
+ · Brazil 🇧🇷**
 
 ![AWS](https://img.shields.io/badge/☁_AWS_Cloud_Practitioner-a35e00?style=flat-square&labelColor=fff8ec)
-![Cybersecurity](https://img.shields.io/badge/🔐_Cybersecurity-116329?style=flat-square&labelColor=eafbf0)
 ![AI](https://img.shields.io/badge/⚡_AI_Enthusiast-0550ae?style=flat-square&labelColor=f0f6ff)
 
 </div>
@@ -51,6 +50,7 @@
 | Status | Certificação | Instituição |
 |--------|-------------|-------------|
 | 🟡 Em andamento | AWS Cloud Practitioner — CLF-C02 | SENAI · 2026 |
+| 🟡 Em andamento | Desenvolvimento em javascript | SENAI · 2026 |
 | ✅ Concluído | Desenvolvimento Front-end | SENAI · 2025 |
 | ✅ Concluído | IA Generativa Aplicada à Programação | SENAI · 2026 |
 | ✅ Concluído | Desenvolvimento em C# | SENAI · 2025 |
@@ -61,7 +61,7 @@
 
 > 🔵 **labs em construção**
 >
-> Primeiros projetos de cloud security e automação com IA em desenvolvimento. Watch this space.
+> In project devolopment
 
 ---
 
