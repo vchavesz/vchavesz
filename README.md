@@ -21,9 +21,13 @@
 
 ## `> stack`
 
-**Current focus**
+## `> current focus`
 
-![AWS](https://img.shields.io/badge/AWS-a35e00?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=fff8ec&color=fff8ec)
+> 📌 Studying for **AWS Cloud Practitioner (CLF-C02)** while expanding into **JavaScript** and **AI** applied to development.
+
+![AWS](https://img.shields.io/badge/AWS_CLF--C02-a35e00?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=fff8ec&color=fff8ec)
+![JavaScript](https://img.shields.io/badge/JavaScript-b45309?style=for-the-badge&logo=javascript&logoColor=white)
+![AI](https://img.shields.io/badge/AI-0550ae?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=f0f6ff&color=f0f6ff)
 
 **Languages & Front-end**
 
