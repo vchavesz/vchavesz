@@ -48,11 +48,11 @@
 
 | Status | Certification | Institution |
 |--------|--------------|-------------|
-| 🟡 In progress | AWS Cloud Practitioner — CLF-C02 | SENAI · 2026 |
-| 🟡 In progress | JavaScript Development | SENAI · 2026 |
-| ✅ Completed | Front-end Development | SENAI · 2025 |
-| ✅ Completed | Generative AI Applied to Programming | SENAI · 2026 |
-| ✅ Completed | C# Development | SENAI · 2025 |
+| 🟡 In progress | JavaScript Development               | SENAI · 2026 |
+| ✅ Completed   | AWS Cloud Practitioner               | SENAI · 2026 |
+| ✅ Completed   | Front-end Development                | SENAI · 2025 |
+| ✅ Completed   | Generative AI Applied to Programming | SENAI · 2026 |
+| ✅ Completed   | C# Development                       | SENAI · 2025 |
 
 ---
 
