@@ -23,9 +23,6 @@
 
 > 📌 Constantly seeking knowledge and sharpening my skills — studying, building, to grow as a developer.
 
-![AWS](https://img.shields.io/badge/AWS_CLF--C02-ffffff?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=57606a&color=57606a)
-![AI](https://img.shields.io/badge/AI-ffffff?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=57606a&color=57606a)
-
 ---
 
 ## `> stack`
