@@ -58,6 +58,7 @@
 | Repo | Description |
 |------|-------------|
 | [C-sharpe](https://github.com/vchavesz/C-sharpe) | Exercises and projects from C# course at SENAI |
+| [Javascript](https://github.com/vchavesz/Javascript) | Exercises and projects from JavaScript course at SENAI |
 
 ## `> stats`
 
