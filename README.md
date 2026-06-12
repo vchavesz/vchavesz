@@ -55,12 +55,9 @@
 ---
 
 ## `> projects`
-
-> 🔵 **labs under construction**
->
-> Projects in development
-
----
+| Repo | Description |
+|------|-------------|
+| [C-sharpe](https://github.com/vchavesz/C-sharpe) | Exercises and projects from C# course at SENAI |
 
 ## `> stats`
 
