@@ -45,11 +45,10 @@
 
 | Status | Certification | Institution |
 |--------|--------------|-------------|
-| 🟡 In progress | AWS AI Practitioner        | SENAI · 2026 |
-| 🟡 In progress | JavaScript Development               | SENAI · 2026 |
+| ✅ Completed   | JavaScript Development               | SENAI · 2026 |
 | ✅ Completed   | AWS Cloud Practitioner               | SENAI · 2026 |
-| ✅ Completed   | Front-end Development                | SENAI · 2025 |
 | ✅ Completed   | Generative AI Applied to Programming | SENAI · 2026 |
+| ✅ Completed   | Front-end Development                | SENAI · 2025 |
 | ✅ Completed   | C# Development                       | SENAI · 2025 |
 
 ---
