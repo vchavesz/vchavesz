@@ -41,9 +41,9 @@
 
 ---
 
-## `> certifications`
+## `> Courses`
 
-| Status | Certification | Institution |
+| Status | Training | Institution |
 |--------|--------------|-------------|
 | ✅ Completed   | JavaScript Development               | SENAI · 2026 |
 | ✅ Completed   | AWS Cloud Practitioner               | SENAI · 2026 |
