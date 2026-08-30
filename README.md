@@ -59,15 +59,6 @@
 | [C-sharpe](https://github.com/vchavesz/C-sharpe) | Exercises and projects from C# course at SENAI |
 | [Javascript](https://github.com/vchavesz/Javascript) | Exercises and projects from JavaScript course at SENAI |
 
----
-
-## `> contact`
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-viniciuschaves1007%40gmail.com-c4351c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciuschaves1007@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%40v.chavesz-b4258e?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/v.chavesz)
-
 </div>
 
 ## `> stats`
