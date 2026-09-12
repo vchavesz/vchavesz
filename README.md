@@ -2,7 +2,7 @@
 
 # Vinicius Chaves · `vchavesz`
 
-**15 y/o · High School · Brazil 🇧🇷**
+**16 y/o · High School · Brazil 🇧🇷**
 
 ![AWS](https://img.shields.io/badge/☁_AWS_Cloud_Practitioner-a35e00?style=flat-square&labelColor=fff8ec)
 ![AI](https://img.shields.io/badge/⚡_AI_Enthusiast-0550ae?style=flat-square&labelColor=f0f6ff)
