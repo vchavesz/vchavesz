@@ -13,8 +13,8 @@
 
 ## `> about me`
 
-> 15 years old · **1st year of High School** · Brazil 🇧🇷
-> Building a career in **Cloud & AI** — aiming for international remote work.
+> 16 years old · **1st year of High School** · Brazil 🇧🇷
+> Building a career in **Cloud** — I aspire to work in Europe.
 > Documenting the journey as I grow.
 
 ---
