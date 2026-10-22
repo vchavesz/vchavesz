@@ -45,6 +45,7 @@
 
 | Status | Training | Institution |
 |--------|--------------|-------------|
+| 🟡 Process     | Cybersecurity Essentials             | SENAI · 2026 |
 | ✅ Completed   | JavaScript Development               | SENAI · 2026 |
 | ✅ Completed   | AWS Cloud Practitioner               | SENAI · 2026 |
 | ✅ Completed   | Generative AI Applied to Programming | SENAI · 2026 |
